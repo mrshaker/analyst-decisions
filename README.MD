@@ -41,5 +41,10 @@ query {
 
 
 
+## it used ESLint dependency to follow standardJS.
+## unit tests have done with JEST.
+
+
+
 
 ##created by Mrshaker
